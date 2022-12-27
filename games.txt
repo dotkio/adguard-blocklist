@@ -1,3 +1,13 @@
 0.0.0.0 poki.com
 0.0.0.0 jeux.fr
 0.0.0.0 1001jeux.fr
+0.0.0.0 jeux-gratuits.com
+0.0.0.0 jeu.fr
+0.0.0.0 crazygames.fr
+0.0.0.0 jeux123.fr
+0.0.0.0 jeux.lemonde.fr
+0.0.0.0 gamekult.com
+0.0.0.0 girlsgogames.fr
+0.0.0.0 jeuxvideo.com
+0.0.0.0 logicieleducatif.fr
+0.0.0.0 jouerjouer.com
