@@ -28,3 +28,4 @@ samsungads.com
 smetrics.samsung.com
 nmetrics.samsung.com
 samsung-com.112.2o7.net
+adservice.google.com
